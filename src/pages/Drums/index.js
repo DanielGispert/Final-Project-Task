@@ -4,3 +4,8 @@ for(i=0;i<document.querySelectorAll(".drum").length; i++){
         //boton animación             
     });
 }
+
+document.addEventListener("keypress", function(event){
+    playSound(event.key);
+    buttonAnimation(event.key); 
+});
