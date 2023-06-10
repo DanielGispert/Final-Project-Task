@@ -1,0 +1,39 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+body {
+    background-color: #393E46;
+}
+
+h1 {
+    margin: 30px;
+    font-family: cursive;
+    font-size: 6.5em;
+    color: #4ECCA3;
+}
+
+p {
+    font-size: 2em;
+    color: #4ECCA3;
+    font-family: cursive;
+    text-align: center;
+}
+
+img {
+    width: 80%;
+}
+
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: cursive;
+}
