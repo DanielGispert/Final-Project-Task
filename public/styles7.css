@@ -1,0 +1,158 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    background-image: url("images_TinderDog/Cor.png");
+  }
+
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+
+  #profile-container {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+    text-align: center;
+    display: block;
+  }
+
+  #profile-container2 {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+    text-align: center;
+    display: block;
+  }
+
+    
+  #profile-container3 {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+    text-align: center;
+    display: block;
+  }
+
+    
+  #profile-container-me-gusta {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+    text-align: center;
+    display: none;
+  }
+
+  #profile-container2-me-gusta {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+    text-align: center;
+    display: none;
+  }
+
+
+  #profile-container3-me-gusta {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+    text-align: center;
+    display: none;
+  }
+  #Contacte{
+    width: 20px;
+    height: auto;
+    display: none;
+    margin: 20px 10px;
+  }
+  #Contacte2{
+    width: 20px;
+    height: auto;
+    display: none;
+    margin: 20px 10px;
+  }
+  #Contacte3{
+    width: 20px;
+    height: auto;
+    display: none;
+    margin: 20px 10px;
+  }
+  
+  img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+
+  h2 {
+    color:  #ffffff;
+    text-align: center;
+    background-color: #dd6ece;
+  }
+
+  button {
+    background-color: #fafdfa;
+    color: #0a0a0a;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+
+  button.like-button {
+    background-color: #c1f8c3;
+  }
+
+  button.contact-button {
+    background-color: #6d6666;
+  }  
+  
+  button.dislike-button1 {
+    background-color: #f7bcb8;
+  }
+
+  button.dislike-button2 {
+    background-color: #f7bcb8;
+  }
+
+  button.dislike-button3 {
+    background-color: #f7bcb8;
+  }
+
+  .fade-out {
+    opacity: 0;
+    transition: opacity 0.5s ease-out;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  a{
+    display: inline-block;
+  margin-right: 10px;
+  }
