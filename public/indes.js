@@ -40,4 +40,3 @@ function contacte2(){
 function contacte3(){
     document.getElementById('Contacte3').style.display = 'block';
  }
- 
